@@ -1,5 +1,6 @@
-# AI Based Health Tracker
-Our idea attempts to keep track and monitor the process of mid-day meals for students whether they are receiving the necessary calories and nutrients intake along with attendance.
+# AI-BASED-HEALTH-TRACKER
+
+This project tracks and monitors the mid-day meal process for students, ensuring they receive the necessary calorie and nutrient intake while also keeping attendance records
 <br><br>
 **Tech Stack** <br><br>
 ![Flask](https://img.shields.io/badge/-Flask-blue?style=for-the-badge&logo=Flask)
@@ -11,7 +12,6 @@ Our idea attempts to keep track and monitor the process of mid-day meals for stu
 <br><br>
 <h3>Idea/Approach Details</h3>
 <ul>
-<li>In an attempt to answer PM’s call for Anaemia Mukt Bharat.
 <li>Track and monitor the weekly menu, calories and protein intake per child everyday using our model.
 <li>Verify that children are attending the school and receiving a minimum nutrient meal for their physical and cognitive growth.
 <li>Provide a dashboard to help gain insights by Monitoring and keeping track of the health of students as well as provide a streaming 
