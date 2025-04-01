@@ -18,4 +18,3 @@ Our idea attempts to keep track and monitor the process of mid-day meals for stu
 <li>service if requested for the interested authorities to check the status of the program .
 </ul>
 
-![Screenshot (279)](https://user-images.githubusercontent.com/55660103/180274142-75c88a61-6b01-47b2-bf4b-33f07bd836ca.png)
