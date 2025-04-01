@@ -18,7 +18,7 @@ Our idea attempts to keep track and monitor the process of mid-day meals for stu
 <li>service if requested for the interested authorities to check the status of the program .
 </ul>
 
-https://github.com/therohitk1/AI-BASED-HEALTH-TRACKER/blob/main/AI-Based-Health-Tracker-main/AI-Based-Health-Tracker-main/OUTPUT.png
+!https://github.com/therohitk1/AI-BASED-HEALTH-TRACKER/blob/main/AI-Based-Health-Tracker-main/AI-Based-Health-Tracker-main/OUTPUT.png
 
 
-https://github.com/therohitk1/AI-BASED-HEALTH-TRACKER/blob/main/AI-Based-Health-Tracker-main/AI-Based-Health-Tracker-main/Attendance%20Marked.png
+!https://github.com/therohitk1/AI-BASED-HEALTH-TRACKER/blob/main/AI-Based-Health-Tracker-main/AI-Based-Health-Tracker-main/Attendance%20Marked.png
