@@ -19,4 +19,5 @@ Our idea attempts to keep track and monitor the process of mid-day meals for stu
 </ul>
 
 ![Health Tracker Output](https://raw.githubusercontent.com/therohitk1/AI-BASED-HEALTH-TRACKER/main/AI-Based-Health-Tracker-main/AI-Based-Health-Tracker-main/OUTPUT.png)
+![Attendance Marked](https://raw.githubusercontent.com/therohitk1/AI-BASED-HEALTH-TRACKER/main/AI-Based-Health-Tracker-main/AI-Based-Health-Tracker-main/Attendance%20Marked.png)
 
