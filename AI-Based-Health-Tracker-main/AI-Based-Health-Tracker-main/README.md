@@ -8,8 +8,6 @@ Our idea attempts to keep track and monitor the process of mid-day meals for stu
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <br><br>
-**Video of the project** <br><br>
-[![Watch the video](https://user-images.githubusercontent.com/55660103/180276164-9ce5d3f7-5e65-42de-a255-b80349b4113b.png)](https://www.youtube.com/watch?v=1CnxmrVq94Y)
 <br><br>
 <h3>Idea/Approach Details</h3>
 <ul>
